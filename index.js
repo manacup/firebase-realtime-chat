@@ -1,13 +1,13 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDQ1BBrAL236dNI1aOx_FOUnrSwI1cHq38",
-  authDomain: "manaxat-801b6.firebaseapp.com",
-  databaseURL: "https://manaxat-801b6-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "manaxat-801b6",
-  storageBucket: "manaxat-801b6.appspot.com",
-  messagingSenderId: "257333706688",
-  appId: "1:257333706688:web:e98805b8661c759c65d225",
-  measurementId: "G-Y8EQ4VWDEX"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
